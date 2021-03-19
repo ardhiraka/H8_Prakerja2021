@@ -1,6 +1,8 @@
 <center><img src = "https://global-uploads.webflow.com/5f0d53c042a9ed6288de7f8d/5f6337ae2cfaa10946ceeb06_Hacktiv8%20logo%20horizontal%2001%20black-p-500.png" width = 300></center>
 <h1 align=center><font size = 5>Hacktiv8 for Prakerja // Interactive Dashboard with Dash</font></h1>
 
+Access the notebook [here](https://nbviewer.jupyter.org/github/ardhiraka/H8_Prakerja2021/blob/d5b7a7629ef593d2edee3a63007feeb37b7e798a/notebooks/H8xPrakerja.ipynb)
+
 **Labs Overview**
 
 Hacktiv8 x Prakerja2021 Labs has everything you need to learn Data Visualization especially Interactive Dashboard. This labs is perfect for those who want to learn how to make graph or plot, including line, bar, scatter, sunburst, etc. Explore Dash methods in making of interactive dashboard. Learn several knowledge, including layouting, callbacks, styling, etc.
